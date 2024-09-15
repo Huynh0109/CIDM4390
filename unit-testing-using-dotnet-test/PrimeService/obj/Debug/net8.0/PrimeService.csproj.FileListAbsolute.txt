@@ -1,0 +1,11 @@
+C:\Users\devil\Downloads\CIDM4390-software sys devel\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devil\Downloads\CIDM4390-software sys devel\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\devil\Downloads\CIDM4390-software sys devel\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfo.cs
+C:\Users\devil\Downloads\CIDM4390-software sys devel\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\devil\Downloads\CIDM4390-software sys devel\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.deps.json
+C:\Users\devil\Downloads\CIDM4390-software sys devel\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.dll
+C:\Users\devil\Downloads\CIDM4390-software sys devel\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.pdb
+C:\Users\devil\Downloads\CIDM4390-software sys devel\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.dll
+C:\Users\devil\Downloads\CIDM4390-software sys devel\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\refint\PrimeService.dll
+C:\Users\devil\Downloads\CIDM4390-software sys devel\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.pdb
+C:\Users\devil\Downloads\CIDM4390-software sys devel\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\ref\PrimeService.dll
